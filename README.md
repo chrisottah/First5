@@ -1,7 +1,3 @@
-Use this README text (copy & paste into GitHub)
-
-You can copy this now and paste directly when creating the repo if GitHub opens a text editor for README.
-
 ⭐ First5 — A Parenting Companion App (Ages 1 Month to 5 Years)
 
 First5 is a holistic mobile application designed to support single fathers, single mothers, and couples in raising children from 1 month to 5 years. The app helps parents track development, understand milestones, receive daily guidance, and access region-based recommendations for feeding, health, and learning activities.
