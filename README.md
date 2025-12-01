@@ -49,6 +49,8 @@ Recipes for age ranges
 
 Allergy warnings
 
+Linking to pharmacies,Doctors and medical supplies
+
 🧸 Behavior & Social Development
 
 Tantrum management
@@ -86,3 +88,4 @@ Expo Notifications
 EAS Build + EAS Updates
 
 TypeScript
+
